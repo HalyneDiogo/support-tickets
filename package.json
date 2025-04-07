@@ -1,0 +1,12 @@
+{
+  "name": "support-tickets",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Halyne Diogo",
+  "license": "ISC",
+  "description": "API de gerenciamneto de tickets de suporte"
+}
